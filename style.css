@@ -1,0 +1,162 @@
+h1{
+    color: rgb(223, 112, 112)
+}
+.Heading{
+      background-color: rgb(0, 0, 0);
+}
+.menu{
+    display: flex;
+    color: #fff;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: #000;
+}
+.menu a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
+body{
+    background-color: rgb(192, 177, 177);
+}
+
+.grid:visited{
+    color: #fff;
+}
+.origami1:hover{
+    transform: scale(1.1);
+}
+.origami2:hover{
+    transform: scale(1.1);
+}
+.origami3:hover{
+    transform: scale(1.1);
+}
+.origami4:hover{
+    transform: scale(1.1);
+}
+.origami5:hover{
+    transform: scale(1.1);
+}
+.origami6:hover{
+    transform: scale(1.1);
+}
+.origami7:hover{
+    transform: scale(1.1);
+}
+.origami8:hover{
+    transform: scale(1.1);
+}
+.origami1 img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami2 img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami3 img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami4 img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami5 img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami6 img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami7 img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami8 img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami1{
+    border-radius: 20px;
+    background-color: #fff;
+    border: 2px solid #fff;
+    width: 310px;
+    font-family: fantasy;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+.origami2{
+    border-radius: 20px;
+    background-color: #fff;
+    border: 2px solid #fff;
+    width: 310px;
+    font-family: fantasy;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+.origami3{
+    border-radius: 20px;
+    background-color: #fff;
+    border: 2px solid #fff;
+    width: 310px;
+    font-family: fantasy;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+.origami4{
+    border-radius: 20px;
+    background-color: #fff;
+    border: 2px solid #fff;
+    width: 310px;
+    font-family: fantasy;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+.origami5{
+    border-radius: 20px;
+    background-color: #fff;
+    border: 2px solid #fff;
+    width: 310px;
+    font-family: fantasy;
+    padding-top: 20px;
+    margin-top: 40px;
+}
+.origami6{
+    border-radius: 20px;
+    background-color: #fff;
+    border: 2px solid #fff;
+    width: 310px;
+    font-family: fantasy;
+    padding-top: 20px;
+    margin-top: 40px;
+}
+.origami7{
+    border-radius: 20px;
+    background-color: #fff;
+    border: 2px solid #fff;
+    width: 310px;
+    font-family: fantasy;
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-top: 40px;
+}
+.origami8{
+    border-radius: 20px;
+    background-color: #fff;
+    border: 2px solid #fff;
+    width: 310px;
+    font-family: fantasy;
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-top: 40px;
+}
+
